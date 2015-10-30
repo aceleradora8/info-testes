@@ -1,13 +1,21 @@
 # Informações sobre Test Driven Development e Testes Unitários em geral
+<<<<<<< HEAD
 
 ### Ciclo do TDD
 
 ![Ciclo do TDD](http://www.pathfindersolns.com/wp-content/uploads/2012/05/red-green-refactorFINAL2.png "Ciclo do TDD")
 
 
-### Links
+### Material sobre TDD em Rails 
+<https://nandovieira.com.br/tdd-no-rails-unit-tests>
+
+=======
+## Ciclo
+
+![Ciclo do TDD](http://www.pathfindersolns.com/wp-content/uploads/2012/05/red-green-refactorFINAL2.png "Ciclo do TDD")
+
+## Links
 [Um Guia para Testar Aplicações Rails - Testes Unitários](http://guias.rubyonrails.com.br.s3-website-us-east-1.amazonaws.com/testing.html#testes-unitrios-para-os-seus-models)
 
 [Apostila Caelum - Test::Unit](http://www.caelum.com.br/apostila-ruby-on-rails/apendice-testes/#16-2-test-unit)
-
-[Material sobre TDD em Rails](https://nandovieira.com.br/tdd-no-rails-unit-tests)
+>>>>>>> c0144ebd0ab26c320a1bd0d1672ff4ee99feaa52
